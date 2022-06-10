@@ -1,27 +1,23 @@
-.jumbotron {
-	color: #49a81d;
-	font-family: Arial, Helvetica, sans-serif;
-    padding-left: 80px;
-
+.jumbotron h1 {
+    color:aliceblue
 }
 
-#metaPanel {
-	font-size: smaller;
-	font-family: Arial, Helvetica, sans-serif;
-	color: #49a81d;
+.jumbotron p {
+    color:aliceblue
 }
 
-#metaPanel .panel-header {
-    text-align: center;
+.white-text h2 {
+    color: aliceblue;
 }
 
-#selDataset {
-	padding: 20px;
-    color: black;
+.aliceblue-text p {
+    color: aliceblue;
 }
 
-#samplePanel {
-	font-family: Arial, Helvetica, sans-serif;
-	text-align: center;
-	color: #49a81d;
+.col-md-12 p {
+    color: aliceblue;
+}
+
+body {
+    background-color: rgb(61, 59, 66);
 }

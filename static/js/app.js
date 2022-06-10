@@ -184,4 +184,3 @@ let data = d3.json("data/samples.json").then(data => {
     demographic('940');
     BuildCharts('940')
 })
-

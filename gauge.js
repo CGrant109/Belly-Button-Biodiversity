@@ -1,6 +1,6 @@
 // create the function that you will call in your main app.js
 function gauge(){
-d3.json("samples.json").then((data) =>{
+d3.json("data/samples.json").then((data) =>{
     var currentID = d3.selectAll("#selDataset").node().value;
     filteredMeta = data.metadata.filter(entry => entry.id == currentID);
     x = filteredMeta[0].wfreq
