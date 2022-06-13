@@ -1,5 +1,10 @@
+d3.json("https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json").then(function(data) {
+    console.log(data);
+  });
+
+
 function demographic(id) {
-    let data = d3.json("data/samples.json").then(data => {
+    let data = d3.json(url).then(data => {
         const metadata = data.metadata;
         let demoPanel = d3.select('#sample-metadata')
         demoPanel.html('');
@@ -19,7 +24,7 @@ function optionChanged(userChoice) {
 
 
 function BuildCharts(sampleId) {
-    let data = d3.json("data/samples.json").then(data => {
+    let data = d3.json(url).then(data => {
         const samples = data.samples;
         const metadata = data.metadata;
 
