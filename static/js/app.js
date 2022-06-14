@@ -11,7 +11,7 @@ function init(){
 //Using the create function that will apply once the option has changed
 function optionChanged() {
   
-    // Building the plot with the new stock
+    // Building the plot with the new option
     buildPlot();
   }
 
@@ -31,7 +31,7 @@ function buildPlot(){
         var currentID = d3.selectAll("#selDataset").node().value;
      
 
-        //filter the data for the current ID to get relavant information
+        //filter the data for the current ID to get desired information
         filteredID = data.samples.filter(entry => entry.id == currentID);
 
         // making Trace for the horizontal bar chart
