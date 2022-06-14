@@ -42,7 +42,7 @@
 
 
 ## 7. Deploy your app to a free static page hosting service, such as GitHub Pages
-https://cgrant109.github.io/Belly-Button-Biodiversity/
+https://cgrant109.github.io/Belly-Button-Biodiversity/ 
 
 [![interactive-web-final-page.jpg](https://i.postimg.cc/Y26C7wck/interactive-web-final-page.jpg)](https://postimg.cc/yWNHhtYr)
 
