@@ -45,3 +45,5 @@
 https://cgrant109.github.io/Belly-Button-Biodiversity/
 
 [![interactive-web-final-page.jpg](https://i.postimg.cc/Y26C7wck/interactive-web-final-page.jpg)](https://postimg.cc/yWNHhtYr)
+
+## Written by Connor Grant. This assigment was completed together with Alfredo Garcia and Neel Patel
