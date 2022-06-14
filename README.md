@@ -19,6 +19,8 @@
 
 [![interactive-web-step2.jpg](https://i.postimg.cc/FH9YkBx3/interactive-web-step2.jpg)](https://postimg.cc/VdVf34pk)
 
+[![interactive-web-hbar.jpg](https://i.postimg.cc/BbS9skDQ/interactive-web-hbar.jpg)](https://postimg.cc/LYb03yNr)
+
 
 
 ## 3. Create a bubble chart that displays each sample.
@@ -35,7 +37,11 @@
 
 [![interactive-web-step3.jpg](https://i.postimg.cc/7h3Lf3GK/interactive-web-step3.jpg)](https://postimg.cc/0KNv4JCS)
 
+[![interactive-web-bubble.jpg](https://i.postimg.cc/28Hmjk0p/interactive-web-bubble.jpg)](https://postimg.cc/cr8PXSqT)
+
 
 
 ## 7. Deploy your app to a free static page hosting service, such as GitHub Pages
 https://cgrant109.github.io/Belly-Button-Biodiversity/
+
+[![interactive-web-final-page.jpg](https://i.postimg.cc/Y26C7wck/interactive-web-final-page.jpg)](https://postimg.cc/yWNHhtYr)
