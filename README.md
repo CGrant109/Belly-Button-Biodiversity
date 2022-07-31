@@ -1,6 +1,5 @@
 # Belly-Button-Biodiversity
 
-https://cgrant109.github.io/Belly-Button-Biodiversity/
 
 ## Instructions
 
